@@ -1,4 +1,4 @@
-base_url = "http://defhacks.github.io/bookmarks"
+base_url = "https://defhacks.github.io/bookmarks"
 theme = "zola.386"
 
 default_language = "en"
