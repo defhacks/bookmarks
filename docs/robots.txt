@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://defhacks.github.io/bookmarks/sitemap.xml
+Sitemap: https://defhacks.github.io/bookmarks/sitemap.xml

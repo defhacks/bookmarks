@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://defhacks.github.io/bookmarks/</loc>
+        <loc>https://defhacks.github.io/bookmarks/</loc>
     </url>
     <url>
-        <loc>http://defhacks.github.io/bookmarks/categories/</loc>
+        <loc>https://defhacks.github.io/bookmarks/categories/</loc>
     </url>
     <url>
-        <loc>http://defhacks.github.io/bookmarks/categories/humour/</loc>
+        <loc>https://defhacks.github.io/bookmarks/categories/humour/</loc>
     </url>
     <url>
-        <loc>http://defhacks.github.io/bookmarks/categories/misc/</loc>
+        <loc>https://defhacks.github.io/bookmarks/categories/misc/</loc>
     </url>
     <url>
-        <loc>http://defhacks.github.io/bookmarks/categories/rust/</loc>
+        <loc>https://defhacks.github.io/bookmarks/categories/rust/</loc>
     </url>
     <url>
-        <loc>http://defhacks.github.io/bookmarks/categories/windows/</loc>
+        <loc>https://defhacks.github.io/bookmarks/categories/windows/</loc>
     </url>
     <url>
-        <loc>http://defhacks.github.io/bookmarks/humour/</loc>
+        <loc>https://defhacks.github.io/bookmarks/humour/</loc>
     </url>
     <url>
-        <loc>http://defhacks.github.io/bookmarks/misc/</loc>
+        <loc>https://defhacks.github.io/bookmarks/misc/</loc>
     </url>
     <url>
-        <loc>http://defhacks.github.io/bookmarks/rust/</loc>
+        <loc>https://defhacks.github.io/bookmarks/rust/</loc>
     </url>
     <url>
-        <loc>http://defhacks.github.io/bookmarks/windows/</loc>
+        <loc>https://defhacks.github.io/bookmarks/windows/</loc>
     </url>
 </urlset>
